@@ -25,7 +25,3 @@ Los datos de cotización se obtienen a través de la **API pública de Coinbase*
 1. Ingresa una cantidad en euros.
 2. Selecciona hasta tres monedas a las que quieres convertir.
 3. Visualiza el valor equivalente en cada moneda seleccionada.
-
-## Enlace
-
-👉 [Accede a la app aquí](https://virtual-currency-wallet.netlify.app/)
